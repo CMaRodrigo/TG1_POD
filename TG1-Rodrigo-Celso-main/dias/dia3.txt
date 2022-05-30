@@ -1,0 +1,15 @@
+today-->08-06-2022
+cadastra-->livro-->How to finish your college projects in time: a guide for dumbs-->Érico Mediante-->2022-->4
+cadastra-->usuario-aluno-->Maria Lurônico-->37681622351-->46132839-->Curso Técnico em Canoagem
+cadastra-->usuario-funcionario-->Guilherme Lancia-->2204673938-->3286817-->Administração Geral
+cadastra-->usuario-funcionario-->Eliberto Reiffel-->70004A28903-->54758356-->Segurança
+empresta-->00012-->75275345131
+devolve-->00011-->52325874125
+devolve-->00005-->52325874125
+devolve-->00005-->23123642168
+cadastra-->usuario-aluno-->Rafaela Brador-->09685428903-->547A7836-->Segurança
+empresta-->00015-->96837678910
+empresta-->00015-->32315321353
+empresta-->00012-->75275340033
+empresta-->00012-->65478521458
+devolve-->00009-->65478521458

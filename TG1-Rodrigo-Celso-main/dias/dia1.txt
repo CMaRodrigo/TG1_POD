@@ -1,0 +1,24 @@
+today-->04-05-2022
+cadastra-->usuario-funcionario-->Rolando Lombada-->98952107297-->87838181-->Financeiro
+cadastra-->usuario-aluno-->Gertrudes Silvelino-->55665673567-->19190417-->Botânica Aplicada
+cadastra-->usuario-aluno-->Jefersa d'Arrocha-->75275345131-->54965151-->Engenharia de Engenharias
+cadastra-->usuario-funcionario-->Ignácio Flamethrower-->36493545349-->89891818-->Escola Politécnica
+cadastra-->livro-->How to Make your Python Students Cry: the Complete Guide-->Jr. Bowling-->2011-->3
+cadastra-->usuario-funcionario-->Hélio Gurte Grego-->15223481238-->19193856-->Escola de Medicina
+cadastra-->usuario-aluno-->Ianca Malhaço de Paula-->84938687733-->98346849-->Enfermagem
+devolve-->00006-->23123642168
+empresta-->00010-->64324138767
+empresta-->00005-->23123642168
+cadastra-->usuario-funcionario-->Mara Cutaia-->15291821238-->19193856-->Secretaria PPGCC
+cadastra-->usuario-aluno-->Eli Berdade-->84938687733-->95836275-->Jardinagem Orgânica Aplicada
+empresta-->00003-->15291821238
+cadastra-->usuario-funcionario-->Jurandir Etório-->15223484445-->24553856-->PROPESQ
+empresta-->00011-->15223484445
+empresta-->00006-->84938687733
+cadastra-->usuario-aluno-->Jane Laberta-->36668687733-->96685675-->Enfermagem
+empresta-->00009-->52325874125
+empresta-->00007-->58456751910
+cadastra-->usuario-funcionario-->Polinstka da Silva-->26674685432-->96788739-->Recursos Humanos
+cadastra-->usuario-funcionario-->Francisco Bernabé-->19585674658-->22003126-->Escola Politécnica
+empresta-->00004-->36493545349
+empresta-->00008-->52325874125

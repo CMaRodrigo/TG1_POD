@@ -1,0 +1,24 @@
+today-->15-05-2022
+devolve-->00003-->64324138767
+empresta-->00011-->52325874125
+cadastra-->usuario-funcionario-->Marco do Triunfo-->66213434113-->33594685-->Tesouraria
+cadastra-->livro-->10 reasons why should students do their homework earlier-->Mai Self-->2019-->1
+empresta-->00006-->52325874125
+cadastra-->livro-->The Hitchhiker's Guide to the Galaxy: 1-->Douglas Adams-->1978-->7
+cadastra-->livro-->The Restaurant at the End of the Universe-->Douglas Adams-->1980-->3
+cadastra-->livro-->Life, the Universe and Everything-->Douglas Adams-->1982-->2
+cadastra-->livro-->So Long, and Thanks for All the Fish-->Douglas Adams-->3333-->2
+cadastra-->livro-->Young Zaphod Plays it Safe-->Douglas Adams-->0000-->2
+cadastra-->usuario-aluno-->Maria Lurônico-->37681622351-->46132839-->Escola de Economia
+empresta-->00012-->75275345131
+devolve-->00006-->84938687733
+empresta-->00005-->52325874125
+devolve-->00010-->64324138767
+empresta-->00014-->66213434113
+empresta-->00009-->96837678910
+empresta-->00013-->37681622351
+empresta-->00009-->37681622351
+empresta-->00010-->58456751910
+empresta-->00001-->66213434113
+empresta-->00015-->52325874125
+empresta-->00012-->52325874125
